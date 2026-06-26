@@ -1,3 +1,3 @@
 # Design-patterns
 
-Exemplos de Padroes de Projetos implementados durante os estudos. 
+Padrões de Projetos implementados durante os estudos na faculdade sobre linguagens de programação.
